@@ -11,7 +11,7 @@ body
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: #131313;
+    background: #292929;
 }
 .container
 {
@@ -186,7 +186,7 @@ body
     transition: 0.5s;
 }
 .container .card:hover .contentBx a
-{
+{   
     opacity: 1;
     transform: translateY(0px);
     transition-delay: 0.75s;
